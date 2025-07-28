@@ -35,6 +35,7 @@ criminal-network-mapper/
 ├── requirements.txt # Python dependencies
 ├── .gitignore # Files/folders to ignore by Git
 └── .gitkeep # Keeps empty folders under version control
+```
 
 ---
 
