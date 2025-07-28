@@ -27,7 +27,7 @@ criminal-network-mapper/
 │ ├── network_builder.py
 │ ├── visualization.py
 │ └── detection_engine.py
-├── models/ # Placeholder for ML models (if applied)
+├── models/ # Reserved for future ML model integration
 │ └── ...
 ├── output/ # Generated visual outputs
 │ └── graphs/
