@@ -55,7 +55,7 @@ Basic packages include:
 
 ---
 
-Usage
+## Usage
 
 1. Place your structured criminal data inside the data/ directory in CSV format.
 2. Run the exploratory notebook located in notebooks/ to understand the structure.
@@ -64,17 +64,20 @@ Usage
 
 ---
 
-Example Use Case
+## Example Use Case
+
 This toolkit can be used by journalists, data scientists, or investigators to analyze suspected criminal activities by mapping communication, financial, or relational ties across individuals or groups.
 
 ---
 
-License
+## License
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ---
 
-Disclaimer
+## Disclaimer
+
 This project is for educational and research purposes only. Any resemblance to real persons, living or dead, or actual events is purely coincidental.
 
 
